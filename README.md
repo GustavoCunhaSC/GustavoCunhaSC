@@ -88,18 +88,24 @@ Olá, me chamo Gustavo Silva Cunha, tenho 20 anos e sou natural do Maranhão. Co
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 7px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GustavoCunhaSC&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocunhasc&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+<table>
+  <tr>
+    <td>
+      <img 
+        align="left"
+        alt="GitHub Stats"
+        height="200"
+        style="padding-right: 7px;"
+        src="https://github-readme-stats.vercel.app/api?username=GustavoCunhaSC&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+      />
+    </td>
+    <td>
+      <img 
+        align="left"
+        alt="GitHub Stats"
+        height="200"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocunhasc&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+      />
+    </td>
+  </tr>
+</table>
