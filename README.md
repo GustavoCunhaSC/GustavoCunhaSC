@@ -87,7 +87,7 @@ Olá, me chamo Gustavo Silva Cunha, tenho 20 anos e sou natural do Maranhão. Co
 
 ### 📊 Estatísticas
 
-<table border="none">
+<table border="0">
   <tr>
     <td>
       <img 
