@@ -4,14 +4,13 @@
 Olá, me chamo Gustavo Silva Cunha, tenho 20 anos e sou natural do Maranhão. Concluí o ensino médio no Centro de Ensino Graça Aranha, e durante esse período, no contratunro iniciei um curso técnico de "Técnico em Informática para a Internet"(Desenvolvimento Web) no SENAC. Já conhecia a programação, mas através do curso tive a certeza que tinha escolhido a minha área. Atualmente, estou cursando <b>Análise e Desenvolvimento de Sistemas</b> na UNIFACIMP. Sou apaixonado por tecnologia e compartilho e adquiro mais conhecimento através de estudos e projetos em que crio ou participo.
 
 <p align="left">
-  <a href="https://linkedin.com/in/gustavo-silva-cunha-990b942a7" target="_blank" style="text-decoration: none;">
-    <div style="display: inline-flex; align-items: center; background-color: #0077b5; color: white; border-radius: 5px; padding: 5px; font-family: Arial, sans-serif;">
-      <svg xmlns="http://www.w3.org/2000/svg" height="22" viewBox="0 0 24 24" width="22" fill="white" style="margin-right: 6px;">
-        <path d="M19 0h-14c-2.76 0-5 2.24-5 5v14c0 2.76 2.24 5 5 5h14c2.76 0 5-2.24 5-5v-14c0-2.76-2.24-5-5-5zm-11 19h-3v-9h3v9zm-1.5-10.29c-.97 0-1.75-.79-1.75-1.75s.78-1.75 1.75-1.75 1.75.79 1.75 1.75-.78 1.75-1.75 1.75zm13.5 10.29h-3v-4.5c0-1.08-.92-2-2-2s-2 .92-2 2v4.5h-3v-9h3v1.29c.62-.79 1.59-1.29 2.67-1.29 1.99 0 3.33 1.5 3.33 3.5v5.5z"/>
-      </svg>
-      <span style="font-weight: bold;">Linkedin</span>
-    </div>
-  </a>
+  <!-- <a href="https://linkedin.com/in/gustavo-silva-cunha-990b942a7">
+        <img 
+            alt="linkedin" 
+            title="perfil" 
+            src=""
+        />
+    </a> -->
 </p>
 
 ---
@@ -88,7 +87,7 @@ Olá, me chamo Gustavo Silva Cunha, tenho 20 anos e sou natural do Maranhão. Co
 
 ### 📊 Estatísticas
 
-<table>
+<table border="0">
   <tr>
     <td>
       <img 
