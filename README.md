@@ -73,14 +73,6 @@ Olá, me chamo Gustavo Silva Cunha, tenho 20 anos e sou natural do Maranhão. Co
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-    align="left" 
-    alt="GitHub" 
-    title="github"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/>
 
 <br/>
 <br/>
