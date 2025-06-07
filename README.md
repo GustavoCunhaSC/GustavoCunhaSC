@@ -1,5 +1,4 @@
 # 👩🏻‍💻 Gustavo Cunha
-
 <!-- **`Desenvolvedor Frontend`** -->
 
 Olá, me chamo Gustavo Silva Cunha, tenho 20 anos e sou natural do Maranhão. Concluí o ensino médio no Centro de Ensino Graça Aranha, e durante esse período, no contratunro iniciei um curso técnico de "Técnico em Informática para a Internet"(Desenvolvimento Web) no SENAC. Já conhecia a programação, mas através do curso tive a certeza que tinha escolhido a minha área. Atualmente, estou cursando <b>Análise e Desenvolvimento de Sistemas</b> na UNIFACIMP. Sou apaixonado por tecnologia e compartilho e adquiro mais conhecimento através de estudos e projetos em que crio ou participo.
@@ -43,7 +42,6 @@ Olá, me chamo Gustavo Silva Cunha, tenho 20 anos e sou natural do Maranhão. Co
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
 <!-- <img
     align="left"
     alt="TypeScript"
@@ -52,7 +50,6 @@ Olá, me chamo Gustavo Silva Cunha, tenho 20 anos e sou natural do Maranhão. Co
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
 /> -->
-
 <img 
     align="left" 
     alt="React"
@@ -61,7 +58,6 @@ Olá, me chamo Gustavo Silva Cunha, tenho 20 anos e sou natural do Maranhão. Co
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
-
 <!-- <img
     align="left"
     alt="Tailwind"
@@ -70,7 +66,6 @@ Olá, me chamo Gustavo Silva Cunha, tenho 20 anos e sou natural do Maranhão. Co
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
 /> -->
-
 <img 
     align="left" 
     alt="Git" 
@@ -98,13 +93,13 @@ Olá, me chamo Gustavo Silva Cunha, tenho 20 anos e sou natural do Maranhão. Co
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 7px;" 
     src="https://github-readme-stats.vercel.app/api?username=GustavoCunhaSC&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   <img 
-        align="left" 
-        alt="GitHub Stats" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocunhasc&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocunhasc&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
