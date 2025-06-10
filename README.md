@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Gustavo Cunha
 <!-- **`Desenvolvedor Frontend`** -->
 
-Olá, me chamo Gustavo Silva Cunha, tenho 20 anos e sou natural do Maranhão. Concluí o ensino médio no Centro de Ensino Graça Aranha, e durante esse período, no contratunro iniciei um curso técnico de "Técnico em Informática para a Internet"(Desenvolvimento Web) no SENAC. Já conhecia a programação, mas através do curso tive a certeza que tinha escolhido a minha área. Atualmente, estou cursando <b>Análise e Desenvolvimento de Sistemas</b> na UNIFACIMP. Sou apaixonado por tecnologia e compartilho e adquiro mais conhecimento através de estudos e projetos em que crio ou participo.
+Olá, me chamo Gustavo Silva Cunha, tenho 20 anos e sou natural do Maranhão. Concluí o ensino médio no Centro de Ensino Graça Aranha, e durante esse período, no contraturno iniciei um curso técnico de "Técnico em Informática para a Internet"(Desenvolvimento Web) no SENAC(2023). Já conhecia a programação, mas através do curso tive a certeza que tinha escolhido a minha área. Atualmente, estou cursando <b>Análise e Desenvolvimento de Sistemas</b> na UNIFACIMP. Sou apaixonado por tecnologia e compartilho e adquiro mais conhecimento através de estudos e projetos em que crio ou participo.
 
 <p align="left">
   <!-- <a href="https://linkedin.com/in/gustavo-silva-cunha-990b942a7">
