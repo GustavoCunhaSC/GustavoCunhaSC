@@ -81,6 +81,6 @@ Olá, me chamo Gustavo Cunha, tenho 20 anos e sou natural do Maranhão. Sou um e
 
 <div>
     <a href ="https://github.com/GustavoCunhaSC">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavocunhasc-developer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocunhasc-developer&layout=compact&langs_count=16&theme=tokyonight" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavocunhasc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocunhasc&layout=compact&langs_count=16&theme=tokyonight" />
 </div>
