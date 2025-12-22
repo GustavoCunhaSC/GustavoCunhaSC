@@ -41,14 +41,14 @@ Olá, me chamo Gustavo Cunha, tenho 20 anos e sou natural do Maranhão. Sou um e
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<!-- <img
+<img
     align="left"
     alt="TypeScript"
     title="TypeScript"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-/> -->
+/>
 <img 
     align="left" 
     alt="React"
@@ -57,14 +57,14 @@ Olá, me chamo Gustavo Cunha, tenho 20 anos e sou natural do Maranhão. Sou um e
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
-<!-- <img
+<img
     align="left"
     alt="Tailwind"
     title="Tailwind"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
-/> -->
+/>
 <img 
     align="left" 
     alt="Git" 
