@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Gustavo Cunha
 <!-- **`Desenvolvedor Frontend`** -->
 
-Olá, me chamo Gustavo Cunha, tenho 21 anos, e sou natural de Imperatriz Maranhão. Profissional formado em "Técnico em Informática para a Internet"(Desenvolvimento Web) no SENAC(2023); e graduado em <b>Análise e Desenvolvimento de Sistemas</b> pela UNIFACIMP WYDEN. Atualmente atuo como desenvolvedor Frontend na TotalAsset, empresa pertecente e que atende diretamente ao grupo Motoca. Sou admirador da tecnologia, e compartilho e adquiro mais conhecimento através de estudos, exercícios, apresentações e projetos em que crio ou participo.
+Olá, me chamo Gustavo Cunha, tenho 21 anos, e sou natural de Imperatriz Maranhão. Profissional formado em "Técnico em Informática para a Internet"(Desenvolvimento Web) no SENAC(2023); e graduado em <b>Análise e Desenvolvimento de Sistemas</b> pela UNIFACIMP WYDEN(2026). Atualmente atuo como desenvolvedor Frontend na TotalAsset, empresa pertecente e que atende diretamente ao grupo Motoca. Sou admirador da tecnologia, e compartilho e adquiro mais conhecimento através de estudos, exercícios, apresentações e projetos em que crio ou participo.
 
 <p align="left">
   <a href="https://linkedin.com/in/gustavo-silva-cunha-990b942a7">
