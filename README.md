@@ -14,20 +14,19 @@
 
 <br/>
 
-## `>` sobre_mim
+## Sobre mim
 
-Olá! Tenho 21 anos, sou natural de Imperatriz - MA. Formado em **Técnico em Informática para a Internet** (Desenvolvimento Web) pelo SENAC (2023) e graduando em **Análise e Desenvolvimento de Sistemas** pela UNIFACIMP WYDEN (2026).
+Olá! Tenho 21 anos, sou natural de Imperatriz - MA. Formado em **Técnico em Informática para a Internet** (Desenvolvimento Web) pelo SENAC (2023) e graduado em **Análise e Desenvolvimento de Sistemas** pela UNIFACIMP WYDEN (2026).
 
 Atuo como **Desenvolvedor Frontend** na TotalAsset, empresa que atende diretamente o grupo Honda Motoca. Sou movido pelo desafio de transformar problemas em soluções eficientes e pela evolução contínua como profissional da área.
 
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas
 - 💼 Trabalhando atualmente na **TotalAsset** (grupo Honda Motoca)
-- 🌱 Evoluindo constantemente em **Frontend** e boas práticas de desenvolvimento
-- 📫 Me chame no [LinkedIn](https://linkedin.com/in/gustavo-silva-cunha-990b942a7)
+- 🧩 Microfrontend
 
 <br/>
 
-## `>` tecnologias
+## Tecnologias
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -42,11 +41,43 @@ Atuo como **Desenvolvedor Frontend** na TotalAsset, empresa que atende diretamen
 
 <br/>
 
-## `>` estatísticas
+
+## Estatísticas
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        height="180em"
+        src="https://github-readme-stats.vercel.app/api?username=gustavocunhasc&show_icons=true&theme=tokyonight&hide_border=true"
+      />
+    </td>
+    <td align="center">
+      <img
+        height="180em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocunhasc&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"
+      />
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gustavocunhasc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=1" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocunhasc&layout=compact&langs_count=16&theme=tokyonight&v=1" />
+  <img
+    width="70%"
+    src="https://streak-stats.demolab.com?user=gustavocunhasc&theme=tokyonight&hide_border=true"
+  />
+</div>
+
+<br/>
+
+<div align="center">
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=gustavocunhasc&theme=tokyo-night&hide_border=true&area=true"
+  />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f1a&height=100&section=footer" width="100%" />
+
